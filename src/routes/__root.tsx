@@ -67,6 +67,12 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { property: "og:site_name", content: "Clima Expert București" },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
+      { property: "og:title", content: "Clima Expert București – Montaj & Service Aer Condiționat" },
+      { name: "twitter:title", content: "Clima Expert București – Montaj & Service Aer Condiționat" },
+      { property: "og:description", content: "Montaj aer condiționat în București rapid și profesionist. Tehnicieni autorizați, garanție, prețuri transparente. Sună acum." },
+      { name: "twitter:description", content: "Montaj aer condiționat în București rapid și profesionist. Tehnicieni autorizați, garanție, prețuri transparente. Sună acum." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/3ec7a1de-9899-45ad-a9c2-5031428433eb/id-preview-a4498900--8c05ab53-ac67-47a3-b296-26f7e2b12705.lovable.app-1781641667096.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/3ec7a1de-9899-45ad-a9c2-5031428433eb/id-preview-a4498900--8c05ab53-ac67-47a3-b296-26f7e2b12705.lovable.app-1781641667096.png" },
     ],
     links: [
       { rel: "stylesheet", href: appCss },
