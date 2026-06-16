@@ -22,7 +22,7 @@ const reviews = [
   { name: "Cristina Dobrescu", area: "Sector 6, Drumul Taberei", text: "Punctualitate de invidiat. Au venit fix la ora stabilită și au terminat în 2 ore. Au explicat și cum să folosesc telecomanda." },
   { name: "Răzvan Ionescu", area: "Sector 2, Tei", text: "Am avut nevoie de mutarea aparatului la altă adresă. Au demontat profesional, transportat și remontat fără nicio problemă. Mulțumesc!" },
   { name: "Alina Vasile", area: "Sector 4, Berceni", text: "Igienizarea a făcut minuni – nu mai miroase deloc și pare că trage mai bine. Băieții sunt foarte ok, simpatici și serioși." },
-  { name: "Bogdan Marinescu", area: "Sector 5, Cotroceni", text: "Am chemat alți doi „specialiști" înainte, n-au știut să-mi spună de unde curge freon. Cei de la Clima Expert au găsit imediat, au reparat și au reîncărcat. Pro!" },
+  { name: "Bogdan Marinescu", area: "Sector 5, Cotroceni", text: "Am chemat alți doi „specialiști” înainte, n-au știut să-mi spună de unde curge freon. Cei de la Clima Expert au găsit imediat, au reparat și au reîncărcat. Pro!" },
 ];
 
 function ReviewsPage() {
